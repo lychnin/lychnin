@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    Talk is cheap.
+    LIFE OWNS LIGHT.
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -8,15 +8,12 @@
 
 ## About ME 👋
 
-- 🔭I'm Zhikang Niu, an undergraduate student in Xidian University, School of Artificial Intelligence, majoring in Artificial Intelligence.
-- 📫 Do not hesitate to contact me if you have any things or questions want to discuss. 
-- Homepage: https://nofish-528.github.io/
-- Email: zkniu@stu.xidian.edu.cn
+- I'm Yi Liu, an undergraduate student in TaiYuan University of technology,majoring in Big Data.
  
 ## Skill & Interest :volcano:
 
 - Languages：Python, PyTorch, LaTeX, Markdown
-- Interested in **ML, DL, CV, Reading** 
+- Interested in **R&B,Basketball,ML, DL, CV, Reading** 
 
 ## Open Source Experience :four_leaf_clover:
 - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch): A chinese tutorial of PyTorch.
