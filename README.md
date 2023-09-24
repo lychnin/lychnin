@@ -3,7 +3,7 @@
     LIFE OWNS LIGHT.
 </h1>
 
-<div align="center" ><img order-radius="100px" src="https://github.com/lychnin/lychnin/blob/main/head.jpg"/></div>
+<div align="center" ><img order-radius="100px" src="https://github.com/lychnin/lychnin/blob/main/bigHead.jpg"/></div>
 <br>
 
 ## About ME 👋
