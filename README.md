@@ -1,3 +1,4 @@
+# Hello!
 - 👋 Hi, I’m @lychnin
 - 👀 I’m interested in new things.
 - 🌱 I’m currently learning programming.
